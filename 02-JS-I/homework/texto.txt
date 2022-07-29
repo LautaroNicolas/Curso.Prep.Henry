@@ -1,0 +1,9 @@
+Variables: Las variables sirven para asignarle un nombre a todo el codigo que valla dentro de ella, para que cuando tengas que volver a usar esos mismos codigos luego, puedas citarla por el nombre.
+
+Strings: Es cualquier tipo texto entre comillas.
+
+Funciones: Sirven para adjuntar una cadena de codigos que cumplan una funcion o retorne una respuesta, para despues poder ser invocada por el nombre que se le otorgue. Opcionalmente podes pasarle argumentos, poniendo una variable dentro de parentesis, para despues usarla dentro de la funcion.
+
+Las declaraciones if sirven para poner una condicion segun lo que queremos que pase, si cumple la condicion nos devolvera una respuesta, si no la cumple nos devolvera otra, y para que devuelva la respuesta tenemos que usar el return
+
+Los valores booleanos, sirven para devolvernos Verdadero o Falso 
