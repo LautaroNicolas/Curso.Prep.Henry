@@ -1,0 +1,1 @@
+Los arrays son un contenedor donde podes guandar todo tipo de datos, para despues poder invocarlos con su indice correspondiente.
