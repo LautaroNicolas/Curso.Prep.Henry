@@ -1,0 +1,7 @@
+Objetos: Los objetos son un contenedor de datos, donde podemos especificar los datos de algo o alguien en particular, por ejemplo animales, personas y demas a diferencia de los arrays que no especifica tanto pero puede contener cosas dintintas dentro de el.
+Las propiedades van dentro del objeto,es donde  se especifica algo del objeto y se le pone un valor, las propiedades tienen un unico nombre pero pueden compartir el mismo valor.
+Los metodos son funciones que estan dentro de un objeto.
+
+El bucle for...in recorre objetos y nos permite guardar sus clave-valor en la variable que le asignemos al for.
+
+Las notaciones de puntos y de corchetes, o mejor llamadas "Dot notacion" y "Break Notacion", sirven para operar sobre una propiedad especifica de un objeto se invoca con el objeto un punto y el nombre de la propiedad. Para invocar con break notacion ponemos el objeto y seguido entre corchetes el nombre de la propiedad entre comillas.
