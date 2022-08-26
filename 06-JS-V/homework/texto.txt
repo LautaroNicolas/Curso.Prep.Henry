@@ -1,0 +1,3 @@
+Los prototipos sirven para poder asignarle una funcion a una clase anteriomente nombrada, para que pueda ser usado mas adelante en cualquier objeto creado a partir de la clase principal.
+
+los constructores de clases son para asignar el valor de los argumentos puestos en la clase que van entre parentesis
