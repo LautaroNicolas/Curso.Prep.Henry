@@ -1,0 +1,27 @@
+ * {
+ 	-webkit-box-sizing: border-box;
+ 	-moz-box-sizing: border-box;
+ 	-box-sizing: border-box;
+ }
+ body {
+ 	background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.shutterstock.com%2Fimage-vector%2Fempty-gray-studio-abstract-background-260nw-1606915042.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fes%2Fsearch%2Ffondo-blanco&tbnid=CgeXHG9yFP7nlM&vet=12ahUKEwjT5cu7nYj6AhXSppUCHSkgA_YQMygtegUIARDBAg..i&docid=O0DX4elMjAeI6M&w=390&h=280&q=imagenes%20de%20fondo&ved=2ahUKEwjT5cu7nYj6AhXSppUCHSkgA_YQMygtegUIARDBAg);
+ }
+ h1 {
+    color: black;
+}
+img {
+	width: 400px;
+}
+#thirdDiv {
+	width: 500px;
+	height: 600px;
+	background-color: orange;
+}
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+}
+#thirdDiv {
+	padding: 50px;
+	border: solid black 10px;
+}
